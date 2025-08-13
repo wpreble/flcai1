@@ -28,8 +28,8 @@ export default function ValidationPage() {
           </Badge>
           <h1 className="text-5xl md:text-7xl font-bold mb-8 text-foreground">Early Access</h1>
           <p className="text-xl md:text-2xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Be among the first to experience FLC AI—a new kind of productivity platform for career development, business
-            strategy, and turning adversity into opportunity.
+            Be among the first to experience FLC AI — a next-generation productivity platform that combines career
+            growth, business strategy, and resilience-building into one integrated system.
           </p>
         </div>
       </section>
@@ -49,10 +49,25 @@ export default function ValidationPage() {
             <br />
             Excellence.
           </h2>
-          <p className="text-xl text-amber-100 mb-12 max-w-2xl mx-auto leading-relaxed">
-            Streamline your career growth, master your professional craft, connect with ambitious professionals. Follow
-            FLC AI.
-          </p>
+
+          <div className="space-y-6 text-xl text-amber-100 mb-12 max-w-3xl mx-auto leading-relaxed">
+            <p>
+              <strong className="text-white">Streamline your career development</strong> with AI-powered goal alignment,
+              resume optimization, and opportunity discovery.
+            </p>
+            <p>
+              <strong className="text-white">Turn challenges into catalysts for growth</strong> using our Adversity ×
+              Opportunity framework.
+            </p>
+            <p>
+              <strong className="text-white">Master your professional craft</strong> through personalized coaching,
+              actionable playbooks, and data-driven insights.
+            </p>
+            <p>
+              <strong className="text-white">Connect with a community</strong> of ambitious professionals and creators
+              building their next chapter.
+            </p>
+          </div>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button
