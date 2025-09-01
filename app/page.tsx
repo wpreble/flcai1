@@ -35,7 +35,7 @@ export default function HomePage() {
               <span className="relative z-10">Secure My Limited Founders Circle Spot for $49</span>
               <div className="absolute inset-0 bg-gradient-to-r from-orange-500 to-yellow-500 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
             </button>
-            <button className="group relative overflow-hidden bg-transparent border-2 border-white text-white hover:bg-white hover:text-amber-900 px-8 py-4 text-lg font-semibold rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105 hover:-translate-y-1">
+            <button className="group relative overflow-hidden bg-transparent border-2 border-gray-800 text-gray-800 hover:bg-gray-800 hover:text-white px-8 py-4 text-lg font-semibold rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105 hover:-translate-y-1">
               <span className="relative z-10">or Join Priority Waitlist</span>
             </button>
           </div>
