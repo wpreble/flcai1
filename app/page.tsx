@@ -146,7 +146,7 @@ export default function HomePage() {
       {/* Methodology Section - Dark Brown */}
       <section className="bg-amber-900 text-white py-24">
         <div className="container mx-auto px-4 max-w-6xl text-center">
-          <h2 className="text-4xl md:text-5xl font-bold mb-4 text-white">Samuel Ngu's Story-to-Strategy Methodology</h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-4 text-white">Samuel's Story-to-Strategy Methodology</h2>
           <p className="text-xl text-amber-100 mb-16">Now Available Through AI</p>
 
           <div className="grid md:grid-cols-3 gap-8">
@@ -236,7 +236,7 @@ export default function HomePage() {
                 </div>
                 <div className="flex items-start">
                   <CheckCircle className="text-green-500 mr-3 h-5 w-5 mt-0.5 flex-shrink-0" />
-                  <span>Direct input on platform development</span>
+                  <span>Exclusive inside look and use of upcoming features</span>
                 </div>
               </div>
 
@@ -274,10 +274,9 @@ export default function HomePage() {
                   How is Career Navigator different from other career tools?
                 </h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  Career Navigator uses Samuel Ngu's proven frameworks exclusively for Feeling Like Chocolate community
-                  members. Unlike generic tools offering templated advice, this integrates specific methodologies that
-                  guided 200+ professionals to strategic career positioning. You get Samuel's coaching approach
-                  available 24/7, not automated responses.
+                  There are more tools customized for success which has helped Samuel accelerate their careers, income,
+                  and transform their life. However, we will unlock them as we go, like a story. Stick around. Founding
+                  Members get first dibs.
                 </p>
               </CardContent>
             </Card>
