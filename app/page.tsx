@@ -209,7 +209,7 @@ export default function HomePage() {
                 <div className="text-5xl font-bold text-primary mb-2">
                   $49<span className="text-2xl text-muted-foreground">/month</span>
                 </div>
-                <p className="text-muted-foreground">Locked-in pricing for first 50 members (then $67/month)</p>
+                <p className="text-muted-foreground">Locked-in pricing for first 50 members (then $99/month)</p>
               </div>
 
               <div className="text-left space-y-4 mb-8">
@@ -251,12 +251,6 @@ export default function HomePage() {
                 <span className="relative z-10">Secure My Spot for $49</span>
                 <div className="absolute inset-0 bg-gradient-to-r from-orange-500 to-yellow-500 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
               </button>
-
-              <p className="text-sm text-muted-foreground">
-                $49 deposit only charged if you continue after 14-day trial
-                <br />
-                Bonus credits never expire • Cancel anytime
-              </p>
             </CardContent>
           </Card>
         </div>
@@ -301,9 +295,8 @@ export default function HomePage() {
                   Why should I pay before the product is fully built?
                 </h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  Your $49 deposit is only charged after your 14-day free trial. You get 50 bonus AI credits ($50 value)
-                  and lifetime $49/month pricing before it rises to $67/month. First 50 founding members also shape
-                  platform development based on real community needs.
+                  You get 50 bonus AI credits ($50 value) and lifetime $49/month pricing before it rises to $99/month.
+                  First 50 founding members also shape platform development based on real community needs.
                 </p>
               </CardContent>
             </Card>
@@ -336,8 +329,6 @@ export default function HomePage() {
             <span className="relative z-10">Secure My Spot for $49</span>
             <div className="absolute inset-0 bg-gradient-to-r from-orange-500 to-yellow-500 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
           </button>
-
-          <p className="text-amber-200">Only charged if you continue after 14-day trial • 50 bonus credits included</p>
         </div>
       </section>
 
